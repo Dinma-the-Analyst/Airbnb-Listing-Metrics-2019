@@ -80,17 +80,17 @@ FROM HEAT_MAP
 ```
 ### Results/Key Finidings
 1. Bronx has the highest average prices and Brooklyn offers a balance between affordability and proximity.
-2. Manhattan have higher proportions of listings followed by Brooklyn. Also, Staten Island shows very low listing volume, but relatively high availability for active listings.
+2. Manhattan have higher proportions of listings followed by Brooklyn. Also, Staten Island shows high listing volume, but relatively low availability.
 3. Entire home/apartment is most common in Manhattan, while private rooms are more prevalent in Brooklyn and the Bronx.
 
 ### Recommendations
 1. For Travelers: Consider Brooklyn for cost-effective stays. Brooklyn offers a balance of affordability, availability, and proximity to Manhattan.
 2. For Hosts: Invest in full apartments over shared rooms. Entire homes consistently attract higher prices and longer stays, especially in Manhattan and Queens.
-3. For City Planners and Policy Markers: Regulate in low-availability areas like Staten Island cautiously. Despite low volume, Staten Island has high listing availability, indicating stable local hosting that may not need heavy regulation.
 
 ### Limitations
 This analysis provides useful insights, but there are some limitations to keep in mind:
 1. The data is from 2019 only. It doesn't show trends over time.
 2. Some listings had wrong or extreme prices, which may affect the results, even after cleaning.
 
-###
+### Visualization using BigQuery
+
