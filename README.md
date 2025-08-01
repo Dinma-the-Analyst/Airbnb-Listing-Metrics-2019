@@ -94,3 +94,4 @@ This analysis provides useful insights, but there are some limitations to keep i
 
 ### Visualization using BigQuery
 
+![1747169564888](https://github.com/user-attachments/assets/c3c6d222-158e-444a-9ba4-6b15a3d07504)
